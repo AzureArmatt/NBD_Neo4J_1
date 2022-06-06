@@ -1,0 +1,198 @@
+﻿[
+  {
+    "n": {
+"identity": 183,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+      }
+    },
+    "r": {
+"identity": 260,
+"start": 183,
+"end": 179,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Capitain America"
+        ]
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 184,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Samuel L. Jackson"
+      }
+    },
+    "r": {
+"identity": 261,
+"start": 184,
+"end": 179,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Nick Fury"
+        ]
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 180,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1950,
+"name": "Joe Johnston"
+      }
+    },
+    "r": {
+"identity": 263,
+"start": 180,
+"end": 179,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 185,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1973,
+"name": "Kevin Feige"
+      }
+    },
+    "r": {
+"identity": 266,
+"start": 185,
+"end": 179,
+"type": "PRODUCED",
+"properties": {
+
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 181,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Christopher Markus"
+      }
+    },
+    "r": {
+"identity": 264,
+"start": 181,
+"end": 179,
+"type": "WROTE",
+"properties": {
+
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 182,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Stephen McFeely"
+      }
+    },
+    "r": {
+"identity": 265,
+"start": 182,
+"end": 179,
+"type": "WROTE",
+"properties": {
+
+      }
+    },
+    "a": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "being Captain America comes at a price",
+"title": "Capitain America: The first Avenger",
+"released": 2011
+      }
+    }
+  }
+]
